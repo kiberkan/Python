@@ -1,5 +1,1 @@
-list = [2,8,6,2,4,15,96,85,74,23,65,2,3,84];
-size = len(list);
-min = 0 ;
-countmin = min;
-(Дальше я не знаю помогите);
+https://github.com/MC-DeniSka/Python.git
